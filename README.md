@@ -1,6 +1,6 @@
 ### Hello there 
 <p align="center">
-  <img src="lightsabers.jpg" alt="LightSabers"/>
+  <img src="Zeroexe00/Zeroexe00/master/lightsabers.jpg" alt="LightSabers"/>
 </p>
 <!--
 **Zeroexe00/Zeroexe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
